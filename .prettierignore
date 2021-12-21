@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+public
+.idea/
+node_modules
+.next
